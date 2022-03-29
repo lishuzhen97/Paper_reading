@@ -10,6 +10,7 @@ NLP相关的论文，尤其是**文本自动摘要**相关的文章和代码
 
 ## 深度学习NLP
 - **TextRank**: "TextRank: Bringing Order into Text". ACL(2004)[[PDF]](https://aclanthology.org/W04-3252/)
+- **Sequence to Sequence** "Sequence to Sequence Learning with Neural Networks". NIPS(2014) [[PDF]](https://proceedings.neurips.cc/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf)
 - **Transformer**: "Attention is All you Need". NeurIPS(2017) [[PDF]](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)
 - **Transformer-XL**: "Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context". ACL(2019) [[PDF]](https://www.aclweb.org/anthology/P19-1285) [[code]](https://github.com/kimiyoung/transformer-xl)
 [[code-official]](https://github.com/tensorflow/tensor2tensor) [[code-tf]](https://github.com/Kyubyong/transformer) [[code-py]](https://github.com/jadore801120/attention-is-all-you-need-pytorch)
