@@ -23,6 +23,7 @@ NLP相关的论文，尤其是**文本自动摘要**相关的文章和代码
 - **HIBERT**: "HIBERT: Document Level Pre-training of Hierarchical Bidirectional Transformers for Document Summarization". ACL(2019) [[PDF]](https://doi.org/10.18653/v1/p19-1499)[[myNote]](https://github.com/lishuzhen97/Paper_reading/blob/main/Papers/HIBERT_%E6%9C%AA%E5%BC%80%E6%BA%90.pdf)
 - **SummaRuNNer**: "SummaRuNNer: A Recurrent Neural Network Based Sequence Model for Extractive Summarization of Documents" ACL(2019) [[PDF](http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14636) [[code]](https://github.com/hpzhao/SummaRuNNer
 )[[myNote]](https://github.com/lishuzhen97/Paper_reading/blob/main/Papers/SummaRuNNer.pdf)
--  **SciBERTSUM** "SciBERTSUM: Extractive Summarization for Scientific Documents"[[PDF]](https://arxiv.org/abs/2201.08495)[[code]](https://github.com/atharsefid/SciBERTSUM)[[myNote]](https://github.com/lishuzhen97/Paper_reading/blob/main/Papers/SciBERTSUM.pdf)
+-  **SciBERTSUM** "SciBERTSUM: Extractive Summarization for Scientific Documents".CoRR (2022)[[PDF]](https://arxiv.org/abs/2201.08495)[[code]](https://github.com/atharsefid/SciBERTSUM)[[myNote]](https://github.com/lishuzhen97/Paper_reading/blob/main/Papers/SciBERTSUM.pdf)
+-  **BERT for Ad Hoc** "Simple Applications of BERT for Ad Hoc Document Retrieval".CoRR(2019)[[PDF]](http://arxiv.org/abs/1903.10972)[[myNote]](https://github.com/lishuzhen97/Paper_reading/blob/main/Papers/Simple%20Applications%20of%20BERT%20for%20Ad%20Hoc%20Document%20Retrieval.pdf)
 ## 摘要生成
 
