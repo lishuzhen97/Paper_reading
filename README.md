@@ -6,8 +6,7 @@ NLP相关的论文，尤其是**文本自动摘要**相关的文章和代码
 - [预训练模型](#预训练模型)
 - [摘要抽取](#摘要抽取)
 - [摘要生成](#摘要生成)
--  **BERTSum**: "Fine-tune BERT for Extractive Summarization". arXiv(2019) [[PDF]](https://arxiv.org/pdf/1903.10318.pdf) [[code]](https://github.com/nlpyang/BertSum)
--  **NeuSum**: "Neural Document Summarization by Jointly Learning to Score and Select Sentences". ACL(2018) [[PDF]](https://www.aclweb.org/anthology/P18-1061) 
+
 
 ## 深度学习NLP
 - **TextRank**: "TextRank: Bringing Order into Text". ACL(2004)[[PDF]](https://aclanthology.org/W04-3252/)
@@ -36,5 +35,6 @@ WhatWorks and What’s Next". ACL(2019) [[PDF]](https://doi.org/10.18653/v1/p19-
 -  **SWAP-NET** "Extractive Summarization with SWAP-NET: Sentences andWords from Alternating Pointer Networks". ACL(2018) [[PDF]](https://aclanthology.org/P18-1014/)[[code]](https://github.com/aishj10/swap-net)
 -  **Leveraging BERT** "Leveraging BERT for Extractive Text Summarization on
 Lectures" CoRR(2019) [[PDF]](http://arxiv.org/abs/1906.04165)[[code]](https://github.com/dmmiller612/lecture-summarizer)[[myNote]](https://github.com/lishuzhen97/Paper_reading/blob/main/Papers/Leveraging%20BERT%20for%20Extractive%20Text%20Summarization%20on%20Lectures.pdf)
+-  **BERTSum**: "Fine-tune BERT for Extractive Summarization". arXiv(2019) [[PDF]](https://arxiv.org/pdf/1903.10318.pdf) [[code]](https://github.com/nlpyang/BertSum)
+-  **NeuSum**: "Neural Document Summarization by Jointly Learning to Score and Select Sentences". ACL(2018) [[PDF]](https://www.aclweb.org/anthology/P18-1061) 
 ## 摘要生成
-
