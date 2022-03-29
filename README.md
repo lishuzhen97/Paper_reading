@@ -44,4 +44,4 @@ Lectures" CoRR(2019) [[PDF]](http://arxiv.org/abs/1906.04165)[[code]](https://gi
 ## 摘要生成
 
 ## 谣言检测
-- **EANN** "EANN: Event Adversarial Neural Networks for Multi-Modal Fake News Detection". KDD(2018) [[PDF]](https://doi.org/10.1145/3219819.3219903)[[code]]https://github.com/search?q=EANN(https://github.com/search?q=EANN)
+- **EANN** "EANN: Event Adversarial Neural Networks for Multi-Modal Fake News Detection". KDD(2018) [[PDF]](https://doi.org/10.1145/3219819.3219903)[[code]](https://github.com/search?q=EANN)
