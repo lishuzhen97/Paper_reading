@@ -60,5 +60,6 @@ Lectures" CoRR(2019) [[PDF]](http://arxiv.org/abs/1906.04165)[[code]](https://gi
 - **
 ## 情感分析
 - **SC-CMC-KS**: "Sentiment classification model for Chinese micro-blog comments based on key sentences extraction". [[PDF]](https://link.springer.com/content/pdf/10.1007/s00500-020-05160-8.pdf)
-
-- 
+- **nlp.stanford**: "Twitter Sentiment Analysis".Entropy(2009)  [[PDF]](https://www-nlp.stanford.edu/courses/cs224n/2009/fp/3.pdf)
+- **3-Way**: "Twitter Sentiment Analysis, 3-Way Classification: Positive, Negative or Neutral?". IEEE BigData(2018) [[PDF]](https://doi.org/10.1109/BigData.2018.8621970) [[myNote]](https://github.com/lishuzhen97/Paper_reading/blob/main/Papers/Twitter_sentiment_analysis_3_way_classification_positive_negative_or_neutral.pdf)
+- **Twitter Data**: "Sentiment Analysis of Twitter Data". [[PDF]](https://aclanthology.org/W11-0705.pdf) [[myNote]](https://github.com/lishuzhen97/Paper_reading/blob/main/Papers/Sentiment%20analysis%20of%20twitter%20data.pdf)
