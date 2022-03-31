@@ -19,9 +19,11 @@ NLP相关的论文，尤其是**文本自动摘要**相关的文章和代码
 - **Transformer-XL**: "Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context". ACL(2019) [[PDF]](https://www.aclweb.org/anthology/P19-1285) [[code]](https://github.com/kimiyoung/transformer-xl)
 [[code-official]](https://github.com/tensorflow/tensor2tensor) [[code-tf]](https://github.com/Kyubyong/transformer) [[code-py]](https://github.com/jadore801120/attention-is-all-you-need-pytorch)
 [[myNote]](https://github.com/lishuzhen97/Paper_reading/blob/main/Papers/transform_XL.pdf)
-- **Pointer Networks** "Pointer Networks". NIPS(2015) [[PDF]](https://proceedings.neurips.cc/paper/2015/file/29921001f2f04bd3baee84a12e98098f-Paper.pdf)
+- **Pointer Networks**: "Pointer Networks". NIPS(2015)  [[PDF]](https://proceedings.neurips.cc/paper/2015/file/29921001f2f04bd3baee84a12e98098f-Paper.pdf)
+- **GAN**: "Generative Adversarial Nets". NIPS(2014) [[PDF]](https://proceedings.neurips.cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf) [[code]](http://www.github.com/goodfeli/adversarial)
 ## 预训练模型
 - **BERT**: "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding". NAACL(2019) [[PDF]](https://www.aclweb.org/anthology/N19-1423) [[code]](https://github.com/google-research/bert) [[myNote]](https://github.com/lishuzhen97/Paper_reading/blob/main/Papers/BERT.pdf) :star::star::star::star::star:
+- **BoostingBERT** "BoostingBERT:Integrating Multi-Class Boosting into BERT for NLP". CoRR(2019) [[PDF]](https://arxiv.org/abs/2009.05959)[[myNote]](https://github.com/lishuzhen97/Paper_reading/blob/main/Papers/BoostingBERT%20Integrating%20Multi-Class%20Boosting%20into%20BERT%20for%20NLP%20task.pdf)
 -  **ALBERT**: "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations". ICLR(2020) [[PDF]](https://openreview.net/pdf?id=H1eA7AEtvS)
 -  **RoBERTa**: "RoBERTa: A Robustly Optimized BERT Pretraining Approach". arXiv(2019) [[PDF]](https://arxiv.org/pdf/1907.11692.pdf) [[code]](https://github.com/pytorch/fairseq)
 -  **BIG BiRD**: "Big Bird: Transformers for Longer Sequences". NeurIPS(2020)[[PDF]](https://proceedings.neurips.cc/paper/2020/file/c8512d142a2d849725f31a9a7a361ab9-Paper.pdf)
@@ -57,9 +59,20 @@ Lectures" CoRR(2019) [[PDF]](http://arxiv.org/abs/1906.04165)[[code]](https://gi
 - **LG + SR**: "Credibility Assessment of Textual Claims on the Web". CIKM(2016) [[PDF]](https://doi.org/10.1145/2983323.2983661) [[myNote]](https://github.com/lishuzhen97/Paper_reading/blob/main/Papers/Credibility%20Assessment%20of%20Textual%20Claims%20on%20the%20Web.pdf)
 - **PubMed** "Claim Extraction in Biomedical Publications using Deep Discourse Model and Transfer Learning". CoRR(2019) [[PDF]](http://arxiv.org/abs/1907.00962)[[code]](https://github.com/titipata/detecting-scientific-claim)
 - **HoVer** "HOVER: A Dataset for Many-Hop Fact Extraction And Claim Verification". EMNLP(2020)[[code]](https://doi.org/10.18653/v1/2020.findings-emnlp.309)
-- **
+- **Fake-news-reasoning** "Automatic Fake News Detection: Are Models Learning to Reason?". ACL/IJCNLP(2021) [[PDF]](https://doi.org/10.18653/v1/2021.acl-short.12) [[code]](https://github.com/casperhansen/fake-news-reasoning
+)
+- **ClaHi-GAT** "Rumor Detection on Twitter with Claim-Guided Hierarchical Graph Attention Networks". EMNLP(2021) [[PDF]](https://doi.org/10.18653/v1/2021.emnlp-main.786)[[myNote]](https://github.com/lishuzhen97/Paper_reading/blob/main/Papers/R9.Rumor%20Detection%20on%20Twitter%20with%20Claim-Guided%20Hierarchical%20Graph.pdf)
+- **Group Learning** "Students Who Study Together Learn Better: On the Importance of Collective Knowledge Distillation for Domain Transfer in Fact Verification". EMNLP(2021) [[PDF]](https://doi.org/10.18653/v1/2021.emnlp-main.558) [[myNote]](https://github.com/lishuzhen97/Paper_reading/blob/main/Papers/R11.Students%20Who%20Study%20Together%20Learn%20Better%20On%20the%20Importance%20of.pdf)
+- **Meet The Truth** "Meet The Truth: Leverage Objective Facts and Subjective Views for Interpretable Rumor Detection". ACL/IJCNLP(Findings2021) [[PDF]](https://doi.org/10.18653/v1/2021.findings-acl.63)
+
+
 ## 情感分析
-- **SC-CMC-KS**: "Sentiment classification model for Chinese micro-blog comments based on key sentences extraction". [[PDF]](https://link.springer.com/content/pdf/10.1007/s00500-020-05160-8.pdf)
+- **SC-CMC-KS**: "Sentiment classification model for Chinese micro-blog comments based on key sentences extraction". Soft Comput(2021) [[PDF]](https://link.springer.com/content/pdf/10.1007/s00500-020-05160-8.pdf)
 - **nlp.stanford**: "Twitter Sentiment Analysis".Entropy(2009)  [[PDF]](https://www-nlp.stanford.edu/courses/cs224n/2009/fp/3.pdf)
 - **3-Way**: "Twitter Sentiment Analysis, 3-Way Classification: Positive, Negative or Neutral?". IEEE BigData(2018) [[PDF]](https://doi.org/10.1109/BigData.2018.8621970) [[myNote]](https://github.com/lishuzhen97/Paper_reading/blob/main/Papers/Twitter_sentiment_analysis_3_way_classification_positive_negative_or_neutral.pdf)
-- **Twitter Data**: "Sentiment Analysis of Twitter Data". [[PDF]](https://aclanthology.org/W11-0705.pdf) [[myNote]](https://github.com/lishuzhen97/Paper_reading/blob/main/Papers/Sentiment%20analysis%20of%20twitter%20data.pdf)
+- **Twitter Data**: "Sentiment Analysis of Twitter Data". LSM(2011) [[PDF]](https://aclanthology.org/W11-0705.pdf) [[myNote]](https://github.com/lishuzhen97/Paper_reading/blob/main/Papers/Sentiment%20analysis%20of%20twitter%20data.pdf)
+- **STANKER**: "STANKER: Stacking Network based on Level-grained Attention-masked BERT for Rumor Detection on Social Media". EMNLP(2021) [[PDF]](https://doi.org/10.18653/v1/2021.emnlp-main.269) [[code]](https://github.com/fip-lab/STANKER) [[myNote]](https://github.com/lishuzhen97/Paper_reading/blob/main/Papers/R5.STANKER%20Stacking%20Network%20based%20on%20Level-grained%20Attention-masked.pdf)
+- **SentiGAN**:"SentiGAN: Generating Sentimental Texts via Mixture Adversarial Networks". IJAC(2018) [[PDF]](https://doi.org/10.24963/ijcai.2018/618)
+- **CNN**: "Convolutional Neural Networks for Sentence Classification". EMNLP() [[PDF]](https://doi.org/10.3115/v1/d14-1181)[[code]](https://code.google.com/p/word2vec/)
+- **TBJE**: "A Transformer-based joint-encoding for Emotion Recognition and Sentiment Analysis". CoRR(2020) [[PDF]](https://arxiv.org/abs/2006.15955) [[code]](https://github.com/jbdel/MOSEI_UMONS)
+-  ****
