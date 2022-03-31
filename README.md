@@ -23,7 +23,7 @@ NLP相关的论文，尤其是**文本自动摘要**相关的文章和代码
 - **GAN**: "Generative Adversarial Nets". NIPS(2014) [[PDF]](https://proceedings.neurips.cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf) [[code]](http://www.github.com/goodfeli/adversarial)
 ## 预训练模型
 - **BERT**: "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding". NAACL(2019) [[PDF]](https://www.aclweb.org/anthology/N19-1423) [[code]](https://github.com/google-research/bert) [[myNote]](https://github.com/lishuzhen97/Paper_reading/blob/main/Papers/BERT.pdf) :star::star::star::star::star:
-- **BoostingBERT** "BoostingBERT:Integrating Multi-Class Boosting into BERT for NLP". CoRR(2019) [[PDF]](https://arxiv.org/abs/2009.05959)[[myNote]](https://github.com/lishuzhen97/Paper_reading/blob/main/Papers/BoostingBERT%20Integrating%20Multi-Class%20Boosting%20into%20BERT%20for%20NLP%20task.pdf)
+- **BoostingBERT**: "BoostingBERT:Integrating Multi-Class Boosting into BERT for NLP". CoRR(2019) [[PDF]](https://arxiv.org/abs/2009.05959)[[myNote]](https://github.com/lishuzhen97/Paper_reading/blob/main/Papers/BoostingBERT%20Integrating%20Multi-Class%20Boosting%20into%20BERT%20for%20NLP%20task.pdf)
 -  **ALBERT**: "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations". ICLR(2020) [[PDF]](https://openreview.net/pdf?id=H1eA7AEtvS)
 -  **RoBERTa**: "RoBERTa: A Robustly Optimized BERT Pretraining Approach". arXiv(2019) [[PDF]](https://arxiv.org/pdf/1907.11692.pdf) [[code]](https://github.com/pytorch/fairseq)
 -  **BIG BiRD**: "Big Bird: Transformers for Longer Sequences". NeurIPS(2020)[[PDF]](https://proceedings.neurips.cc/paper/2020/file/c8512d142a2d849725f31a9a7a361ab9-Paper.pdf)
@@ -38,10 +38,10 @@ NLP相关的论文，尤其是**文本自动摘要**相关的文章和代码
 with Reinforcement Learning". NAACL-HLT (2018)[[PDF]](https://doi.org/10.18653/v1/n18-1158)
 -  **fastNLP**: "Searching for Effective Neural Extractive Summarization:
 WhatWorks and What’s Next". ACL(2019) [[PDF]](https://doi.org/10.18653/v1/p19-1100)
--  **Three Sentences** "Three Sentences Are All You Need: Local Path Enhanced Document Relation Extraction". ACL(2021)[[PDF]](https://aclanthology.org/2021.acl-short.126/)[[code]](https://github.com/AndrewZhe/Three-Sentences-Are-All-You-Need)
--  **Sentences and Words** "Neural Summarization by Extracting Sentences and Words". ACL(2016) [[PDF]](https://aclanthology.org/P16-1046/)
+-  **Three Sentences**: "Three Sentences Are All You Need: Local Path Enhanced Document Relation Extraction". ACL(2021)[[PDF]](https://aclanthology.org/2021.acl-short.126/)[[code]](https://github.com/AndrewZhe/Three-Sentences-Are-All-You-Need)
+-  **Sentences and Words**: "Neural Summarization by Extracting Sentences and Words". ACL(2016) [[PDF]](https://aclanthology.org/P16-1046/)
 -  **SWAP-NET** "Extractive Summarization with SWAP-NET: Sentences andWords from Alternating Pointer Networks". ACL(2018) [[PDF]](https://aclanthology.org/P18-1014/)[[code]](https://github.com/aishj10/swap-net)
--  **Leveraging BERT** "Leveraging BERT for Extractive Text Summarization on
+-  **Leveraging BERT**: "Leveraging BERT for Extractive Text Summarization on
 Lectures" CoRR(2019) [[PDF]](http://arxiv.org/abs/1906.04165)[[code]](https://github.com/dmmiller612/lecture-summarizer)[[myNote]](https://github.com/lishuzhen97/Paper_reading/blob/main/Papers/Leveraging%20BERT%20for%20Extractive%20Text%20Summarization%20on%20Lectures.pdf)
 -  **BERTSum**: "Fine-tune BERT for Extractive Summarization". arXiv(2019) [[PDF]](https://arxiv.org/pdf/1903.10318.pdf) [[code]](https://github.com/nlpyang/BertSum)
 -  **NeuSum**: "Neural Document Summarization by Jointly Learning to Score and Select Sentences". ACL(2018) [[PDF]](https://www.aclweb.org/anthology/P18-1061) 
@@ -57,13 +57,13 @@ Lectures" CoRR(2019) [[PDF]](http://arxiv.org/abs/1906.04165)[[code]](https://gi
 - **Open Extraction**: "Open Extraction of Fine-Grained Political Statements" EMNLP(2015)
 [[PDF]](https://doi.org/10.18653/v1/d15-1008)[[code]](https://people.ischool.berkeley.edu/~dbamman/emnlp2015/)
 - **LG + SR**: "Credibility Assessment of Textual Claims on the Web". CIKM(2016) [[PDF]](https://doi.org/10.1145/2983323.2983661) [[myNote]](https://github.com/lishuzhen97/Paper_reading/blob/main/Papers/Credibility%20Assessment%20of%20Textual%20Claims%20on%20the%20Web.pdf)
-- **PubMed** "Claim Extraction in Biomedical Publications using Deep Discourse Model and Transfer Learning". CoRR(2019) [[PDF]](http://arxiv.org/abs/1907.00962)[[code]](https://github.com/titipata/detecting-scientific-claim)
-- **HoVer** "HOVER: A Dataset for Many-Hop Fact Extraction And Claim Verification". EMNLP(2020)[[code]](https://doi.org/10.18653/v1/2020.findings-emnlp.309)
-- **Fake-news-reasoning** "Automatic Fake News Detection: Are Models Learning to Reason?". ACL/IJCNLP(2021) [[PDF]](https://doi.org/10.18653/v1/2021.acl-short.12) [[code]](https://github.com/casperhansen/fake-news-reasoning
+- **PubMed**: "Claim Extraction in Biomedical Publications using Deep Discourse Model and Transfer Learning". CoRR(2019) [[PDF]](http://arxiv.org/abs/1907.00962)[[code]](https://github.com/titipata/detecting-scientific-claim)
+- **HoVer**: "HOVER: A Dataset for Many-Hop Fact Extraction And Claim Verification". EMNLP(2020)[[code]](https://doi.org/10.18653/v1/2020.findings-emnlp.309)
+- **Fake-news-reasoning**: "Automatic Fake News Detection: Are Models Learning to Reason?". ACL/IJCNLP(2021) [[PDF]](https://doi.org/10.18653/v1/2021.acl-short.12) [[code]](https://github.com/casperhansen/fake-news-reasoning
 )
-- **ClaHi-GAT** "Rumor Detection on Twitter with Claim-Guided Hierarchical Graph Attention Networks". EMNLP(2021) [[PDF]](https://doi.org/10.18653/v1/2021.emnlp-main.786)[[myNote]](https://github.com/lishuzhen97/Paper_reading/blob/main/Papers/R9.Rumor%20Detection%20on%20Twitter%20with%20Claim-Guided%20Hierarchical%20Graph.pdf)
-- **Group Learning** "Students Who Study Together Learn Better: On the Importance of Collective Knowledge Distillation for Domain Transfer in Fact Verification". EMNLP(2021) [[PDF]](https://doi.org/10.18653/v1/2021.emnlp-main.558) [[myNote]](https://github.com/lishuzhen97/Paper_reading/blob/main/Papers/R11.Students%20Who%20Study%20Together%20Learn%20Better%20On%20the%20Importance%20of.pdf)
-- **Meet The Truth** "Meet The Truth: Leverage Objective Facts and Subjective Views for Interpretable Rumor Detection". ACL/IJCNLP(Findings2021) [[PDF]](https://doi.org/10.18653/v1/2021.findings-acl.63)
+- **ClaHi-GAT**: "Rumor Detection on Twitter with Claim-Guided Hierarchical Graph Attention Networks". EMNLP(2021) [[PDF]](https://doi.org/10.18653/v1/2021.emnlp-main.786)[[myNote]](https://github.com/lishuzhen97/Paper_reading/blob/main/Papers/R9.Rumor%20Detection%20on%20Twitter%20with%20Claim-Guided%20Hierarchical%20Graph.pdf)
+- **Group Learning**: "Students Who Study Together Learn Better: On the Importance of Collective Knowledge Distillation for Domain Transfer in Fact Verification". EMNLP(2021) [[PDF]](https://doi.org/10.18653/v1/2021.emnlp-main.558) [[myNote]](https://github.com/lishuzhen97/Paper_reading/blob/main/Papers/R11.Students%20Who%20Study%20Together%20Learn%20Better%20On%20the%20Importance%20of.pdf)
+- **Meet The Truth**: "Meet The Truth: Leverage Objective Facts and Subjective Views for Interpretable Rumor Detection". ACL/IJCNLP(Findings2021) [[PDF]](https://doi.org/10.18653/v1/2021.findings-acl.63)
 
 
 ## 情感分析
