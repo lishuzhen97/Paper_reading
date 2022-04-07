@@ -46,7 +46,7 @@ Lectures" CoRR(2019) [[PDF]](http://arxiv.org/abs/1906.04165)[[code]](https://gi
 -  **BERTSum**: "Fine-tune BERT for Extractive Summarization". arXiv(2019) [[PDF]](https://arxiv.org/pdf/1903.10318.pdf) [[code]](https://github.com/nlpyang/BertSum)
 -  **NeuSum**: "Neural Document Summarization by Jointly Learning to Score and Select Sentences". ACL(2018) [[PDF]](https://www.aclweb.org/anthology/P18-1061) 
 ## 摘要生成
-
+-  **Global Encoding**: "Global Encoding for Abstractive Summarization". ACL(2018)[[PDF]](https://aclanthology.org/P18-2027.pdf) [[code]](https://github.com/lancopku/Global-Encoding)
 ## 谣言检测/陈述提取
 - **EANN**: "EANN: Event Adversarial Neural Networks for Multi-Modal Fake News Detection". KDD(2018) [[PDF]](https://doi.org/10.1145/3219819.3219903)[[code]](https://github.com/search?q=EANN)[[myNote]](https://github.com/lishuzhen97/Paper_reading/blob/main/Papers/EANN_%20Event%20Adversarial%20Neural%20Networks%20for%20Multi-Modal%20Fake%20News%20Detection.pdf)
 - **FEVER**: "FEVER: a Large-scale Dataset for Fact Extraction and VERification". NAACL-HLT(2018) [[PDF]](https://doi.org/10.18653/v1/n18-1074)[[code]](https://github.com/awslabs/fever)
