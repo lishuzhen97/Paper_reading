@@ -2,6 +2,7 @@
 ---
 NLP相关的论文，尤其是**文本自动摘要**相关的文章和代码
 
+- [数据集](#数据集)
 - [深度学习NLP](#深度学习nlp)
 - [预训练模型](#预训练模型)
 - [摘要抽取](#摘要抽取)
@@ -9,7 +10,8 @@ NLP相关的论文，尤其是**文本自动摘要**相关的文章和代码
 - [谣言检测](#谣言检测陈述提取)
 - [情感分析](#情感分析)
 
-
+## 数据集
+- **LCSTS**："Global Encoding for Abstractive Summarization".EMNLP(2015)[[PDF]](https://aclanthology.org/D15-1229.pdf)
 ## 深度学习NLP
 - **LSTM**:"Long Short-Term Memory".Neural Comput(1997)[[PDF]](https://doi.org/10.1162/neco.1997.9.8.1735)
 - **TextRank**: "TextRank: Bringing Order into Text". ACL(2004)[[PDF]](https://aclanthology.org/W04-3252/)
