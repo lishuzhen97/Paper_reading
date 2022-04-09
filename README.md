@@ -29,6 +29,7 @@ NLP相关的论文，尤其是**文本自动摘要**相关的文章和代码
 -  **ALBERT**: "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations". ICLR(2020) [[PDF]](https://openreview.net/pdf?id=H1eA7AEtvS)
 -  **RoBERTa**: "RoBERTa: A Robustly Optimized BERT Pretraining Approach". arXiv(2019) [[PDF]](https://arxiv.org/pdf/1907.11692.pdf) [[code]](https://github.com/pytorch/fairseq)
 -  **BIG BiRD**: "Big Bird: Transformers for Longer Sequences". NeurIPS(2020)[[PDF]](https://proceedings.neurips.cc/paper/2020/file/c8512d142a2d849725f31a9a7a361ab9-Paper.pdf)
+-  **PEGASUS**： "PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization". ICML(2020) [[PDF]](http://proceedings.mlr.press/v119/zhang20ae.html) [[code]](https://github.com/google-research/pegasus)
 -  
 ## 摘要抽取
 - **HIBERT**: "HIBERT: Document Level Pre-training of Hierarchical Bidirectional Transformers for Document Summarization". ACL(2019) [[PDF]](https://doi.org/10.18653/v1/p19-1499)[[myNote]](https://github.com/lishuzhen97/Paper_reading/blob/main/Papers/HIBERT_%E6%9C%AA%E5%BC%80%E6%BA%90.pdf)
