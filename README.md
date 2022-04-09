@@ -47,7 +47,7 @@ WhatWorks and What’s Next". ACL(2019) [[PDF]](https://doi.org/10.18653/v1/p19-
 Lectures" CoRR(2019) [[PDF]](http://arxiv.org/abs/1906.04165)[[code]](https://github.com/dmmiller612/lecture-summarizer)[[myNote]](https://github.com/lishuzhen97/Paper_reading/blob/main/Papers/Leveraging%20BERT%20for%20Extractive%20Text%20Summarization%20on%20Lectures.pdf)
 -  **BERTSum**: "Fine-tune BERT for Extractive Summarization". arXiv(2019) [[PDF]](https://arxiv.org/pdf/1903.10318.pdf) [[code]](https://github.com/nlpyang/BertSum)
 -  **NeuSum**: "Neural Document Summarization by Jointly Learning to Score and Select Sentences". ACL(2018) [[PDF]](https://www.aclweb.org/anthology/P18-1061) 
--  **DiscoBERT**: "Discourse-Aware Neural Extractive Text Summarization". ACL(2020) PDF[[https://aclanthology.org/2020.acl-main.451.pdf]] [[code]](https://github.com/ucfnlp/summarization-sing-pair-mix)
+-  **DiscoBERT**: "Discourse-Aware Neural Extractive Text Summarization". ACL(2020) [[PDF]](https://aclanthology.org/2020.acl-main.451.pdf)[[code]](https://github.com/ucfnlp/summarization-sing-pair-mix)
 ## 摘要生成
 -  **Global Encoding**: "Global Encoding for Abstractive Summarization". ACL(2018)[[PDF]](https://aclanthology.org/P18-2027.pdf) [[code]](https://github.com/lancopku/Global-Encoding)
 ## 谣言检测/陈述提取
