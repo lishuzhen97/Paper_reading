@@ -44,11 +44,11 @@ WhatWorks and What’s Next". ACL(2019) [[PDF]](https://doi.org/10.18653/v1/p19-
 -  **Three Sentences**: "Three Sentences Are All You Need: Local Path Enhanced Document Relation Extraction". ACL(2021)[[PDF]](https://aclanthology.org/2021.acl-short.126/)[[code]](https://github.com/AndrewZhe/Three-Sentences-Are-All-You-Need)
 -  **Sentences and Words**: "Neural Summarization by Extracting Sentences and Words". ACL(2016) [[PDF]](https://aclanthology.org/P16-1046/)
 -  **SWAP-NET** "Extractive Summarization with SWAP-NET: Sentences andWords from Alternating Pointer Networks". ACL(2018) [[PDF]](https://aclanthology.org/P18-1014/)[[code]](https://github.com/aishj10/swap-net)
--  **Leveraging BERT**: "Leveraging BERT for Extractive Text Summarization on
-Lectures" CoRR(2019) [[PDF]](http://arxiv.org/abs/1906.04165)[[code]](https://github.com/dmmiller612/lecture-summarizer)[[myNote]](https://github.com/lishuzhen97/Paper_reading/blob/main/Papers/Leveraging%20BERT%20for%20Extractive%20Text%20Summarization%20on%20Lectures.pdf)
+-  **Leveraging BERT**: "Leveraging BERT for Extractive Text Summarization on Lectures" CoRR(2019) [[PDF]](http://arxiv.org/abs/1906.04165)[[code]](https://github.com/dmmiller612/lecture-summarizer)[[myNote]](https://github.com/lishuzhen97/Paper_reading/blob/main/Papers/Leveraging%20BERT%20for%20Extractive%20Text%20Summarization%20on%20Lectures.pdf)
 -  **BERTSum**: "Fine-tune BERT for Extractive Summarization". arXiv(2019) [[PDF]](https://arxiv.org/pdf/1903.10318.pdf) [[code]](https://github.com/nlpyang/BertSum)
 -  **NeuSum**: "Neural Document Summarization by Jointly Learning to Score and Select Sentences". ACL(2018) [[PDF]](https://www.aclweb.org/anthology/P18-1061) 
--  **DiscoBERT**: "Discourse-Aware Neural Extractive Text Summarization". ACL(2020) [[PDF]](https://aclanthology.org/2020.acl-main.451.pdf)[[code]](https://github.com/ucfnlp/summarization-sing-pair-mix)
+-  **DiscoBERT**: "Discourse-Aware Neural Extractive Text Summarization". ACL(2020) [[PDF]](https://aclanthology.org/2020.acl-main.451.pdf)[[code]](https://github.com/ucfnlp/summarization-sing-pair-mix) 
+-  **sentence-transformers**: "Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks". EMNLP (2019)[[PDF]](https://doi.org/10.18653/v1/D19-1410)[[code]](https://github.com/UKPLab/sentence-transformers) 
 ## 摘要生成
 -  **Global Encoding**: "Global Encoding for Abstractive Summarization". ACL(2018)[[PDF]](https://aclanthology.org/P18-2027.pdf) [[code]](https://github.com/lancopku/Global-Encoding)
 ## 谣言检测/陈述提取
